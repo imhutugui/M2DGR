@@ -445,7 +445,7 @@ We write a ROS driver for UVC cameras to record our thermal-infrared image.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SJTU-ViSYS/M2DGR&type=Timeline)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=SJTU-ViSYS/M2DGR&type=Timeline)](https://star-history.dera.page/#SJTU-ViSYS/M2DGR&Timeline)
 
 
 ## ACKNOWLEGEMENT
